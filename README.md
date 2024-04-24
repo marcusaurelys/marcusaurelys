@@ -1,2 +1,2 @@
-I love Svelte
-test
+# Hi, I'm Joel 👋
+a CS student.

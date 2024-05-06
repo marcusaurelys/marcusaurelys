@@ -1,6 +1,7 @@
 # Hi, I'm Joel Ethan 👋
-A Computer Science undergraduate. 🖥️ \
-Interested in Data Science and Frontend Development. 📊🖼️
+🖥️🧑‍🔬 A Computer Science undergraduate. \
+📊🖼️ Interested in Data Science and Frontend Development. \
+⚛️ Currently Learning React and NextJS.
 
 
 <h3 align="left"> ⚙️ Languages and Tools: 🛠️ </h3>
